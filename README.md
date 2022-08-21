@@ -1,4 +1,4 @@
-# Compas-Bigdata-project - 장려상 🏆
+# Compas-Bigdata-project - 장려상 (LH 사장상) 🏆
 LH 및 Compas 주관, 대전광역시 교통사고 위험지역 도출 공모전 (2021.02.25 ~ 2021.04.01) - [공모전 설명 링크](https://compas.lh.or.kr/subj/past/info?subjNo=SBJ_2102_003)
 
 ## 👨‍👨‍👧‍👧 Makers
